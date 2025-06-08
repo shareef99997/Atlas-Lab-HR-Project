@@ -1,4 +1,4 @@
-# 📌 Atlas Labs – HR Analytics Dashboard (Power BI)  
+# 📌 Atlas Labs – HR Analytics Report (Power BI)  
 📊 **Advanced Power BI Project | Employee Attrition | Performance Tracker | Multi-Table Data Model**  
 🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDllNGYxZWEtNGZlNS00N2UwLWE1YzEtMGY5NzcwZWU5OWFlIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9&pageName=ReportSection)**  
 
